@@ -1,5 +1,3 @@
-// posix 
-
   using namespace std;
   #include <semaphore.h>
   #include <iostream>
